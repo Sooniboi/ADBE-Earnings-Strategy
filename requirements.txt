@@ -1,0 +1,11 @@
+python-dotenv==1.0.0
+requests==2.31.0
+pandas==2.1.0
+numpy==1.24.3
+finnhub-python==2.4.18
+ib_insync==0.9.86
+praw==7.7.1
+newsapi-python==0.2.7
+fredapi==0.5.1
+flask==2.0.1
+psutil==5.9.0 
